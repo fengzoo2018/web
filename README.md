@@ -23,7 +23,9 @@ This project aims to deal with modules related to the webclient of Odoo. You'll 
 
 [//]: # (addons)
 
+
 Available addons
+----------------
 addon | version | summary
 --- | --- | ---
 [help_online](help_online/) | 9.0.1.0.0 | Help Online
@@ -66,6 +68,7 @@ addon | version | summary
 
 
 Unported addons
+---------------
 addon | version | summary
 --- | --- | ---
 [help_popup](help_popup/) | 8.0.0.5.0 (unported) | Help Popup
