@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 .. image:: https://img.shields.io/badge/license-LGPL--3-blue.svg
 ================================================================
@@ -34,10 +34,14 @@ allow others:
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -81,8 +85,10 @@ Known Issues / Roadmap
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/web/issues>`_. In 
@@ -94,6 +100,7 @@ Credits
 -------
 
 
+
 Images
 
 * Odoo Community Association: 
@@ -101,7 +108,9 @@ Images
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Dave Lasley <dave@laslabs.com>
@@ -110,6 +119,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 .. image:: https://img.shields.io/badge/licence-LGPL--3-blue.svg
 ================================================================
@@ -22,8 +22,10 @@ This module extends the functionality of the image widget and allows to take sna
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 By default, the module works with all `major browsers
@@ -43,6 +45,8 @@ Its done! Now this module also work with websites without SSL / HTTPS.
 Usage
 -----
 
+-----
+
 =====
 
 To use this module, you need to:
@@ -56,8 +60,10 @@ To use this module, you need to:
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -69,9 +75,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Siddharth Bhalgami <siddharth.bhalgami@techreceptives.com>
@@ -79,6 +88,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png
