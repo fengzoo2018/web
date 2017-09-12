@@ -29,11 +29,15 @@ Installation
 ------------
 
 
+
 Configuration
 -------------
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -71,10 +75,12 @@ Known issues / Roadmap
 
 
 
+
 * Migrate to v9 JS API both normal code and QUnit tests.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -88,10 +94,13 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -103,6 +112,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
