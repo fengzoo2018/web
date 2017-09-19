@@ -36,12 +36,16 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -91,8 +95,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -108,6 +114,7 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: 
@@ -117,7 +124,9 @@ Images
 
 
 
+
 ### Contributors
+
 
 
 
@@ -128,6 +137,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 
