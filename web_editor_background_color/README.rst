@@ -29,13 +29,17 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -73,6 +77,7 @@ Known issues / Roadmap
 
 
 
+
 * When migrating to v10, adapt this option again to its brand new built-in
   colorpicker.
 * While you write to the text input, you may notice it disappears for a moment,
@@ -80,6 +85,7 @@ Known issues / Roadmap
 
 Bug Tracker
 -----------
+
 
 
 
@@ -97,6 +103,7 @@ Credits
 
 
 
+
 External libraries
 
 * This addon includes code copied from bootstrap-colorpicker_
@@ -108,7 +115,9 @@ External libraries
 
 
 
+
 ### Contributors
+
 
 
 
@@ -119,6 +128,8 @@ External libraries
 ### Funders
 
 ### Maintainer
+
+
 
 
 

@@ -24,8 +24,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -37,6 +39,8 @@ To configure this module, you need to:
 * Add your user in at least 2 companies, and you will see the switch at the upper right corner
 
 Usage
+-----
+
 -----
 
 -----
@@ -77,8 +81,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -100,6 +106,7 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
@@ -109,7 +116,9 @@ Images
 
 
 
+
 ### Contributors
+
 
 
 
@@ -122,6 +131,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

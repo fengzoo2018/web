@@ -26,6 +26,7 @@ Installation
 
 
 
+
 To install this module, you need to:
 
  * Go to Settings / Local Modules
@@ -39,7 +40,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -78,8 +82,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -98,7 +104,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -109,11 +117,14 @@ Credits
 
 
 
+
 * Alejandro Santana <alejandrosantana@anubia.es>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

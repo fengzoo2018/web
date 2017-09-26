@@ -28,13 +28,17 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -63,10 +67,12 @@ Known issues / Roadmap
 
 
 
+
 * Absolutely no validation on options.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -84,11 +90,13 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -99,11 +107,14 @@ Images
 
 
 
+
 * Vincent Vinet <vincent.vinet@savoirfairelinux.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

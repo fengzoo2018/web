@@ -28,13 +28,17 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -86,11 +90,13 @@ Known issues / Roadmap
 
 
 
+
 * When pressing Esc key, it could be user friendly to return to the previous
   state (before editing the quantity).
 
 Bug Tracker
 -----------
+
 
 
 
@@ -108,7 +114,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -119,11 +127,14 @@ Credits
 
 
 
+
 * Sylvain LE GAL (https://twitter.com/legalsylvain)
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 
