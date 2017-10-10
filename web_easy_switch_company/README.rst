@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 web_easy_switch_company
+=======================
 
 This module extend web backend and allow user to switch to another company more easily.
 
@@ -39,6 +40,8 @@ To configure this module, you need to:
 * Add your user in at least 2 companies, and you will see the switch at the upper right corner
 
 Usage
+-----
+
 -----
 
 -----
@@ -111,7 +114,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

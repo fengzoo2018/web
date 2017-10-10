@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Allow users to set manually a quantity of items to display in a tree view
+=========================================================================
 
 This module extends the functionality of web module, to improve list views and
 to allow users to display custom quantity of items.
@@ -37,6 +38,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -115,7 +118,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

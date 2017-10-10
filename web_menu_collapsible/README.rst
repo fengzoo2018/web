@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Collapsible menu
+================
 
 This module makes all menus collapsible for all users.
 
@@ -48,6 +49,8 @@ No configuration is needed.
    :target: https://runbot.odoo-community.org/runbot/162/9.0
 
 Usage
+-----
+
 -----
 
 -----
@@ -93,7 +96,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

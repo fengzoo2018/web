@@ -16,6 +16,7 @@
    :alt: License: LGPL-3
 
 Web Responsive
+==============
 
 This module provides a mobile compliant interface for Odoo Community web.
 
@@ -43,6 +44,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -117,7 +120,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

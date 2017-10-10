@@ -16,6 +16,7 @@
    :alt: License: LGPL-3
 
 DarkroomJS Image Editing for Web
+================================
 
 This module provides a `DarkroomJS`_ (v2.0.1) web widget for use with image 
 fields. It also adds a Darkroom button to the normal image widget, which can 
@@ -46,6 +47,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -127,7 +130,6 @@ Images
 * Odoo Community Association: 
   `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

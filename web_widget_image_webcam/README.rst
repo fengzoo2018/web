@@ -16,6 +16,7 @@
    :alt: License: LGPL-3
 
 Web Widget - Image WebCam
+=========================
 
 This module extends the functionality of the image widget and allows to take snapshots with WebCam.
 
@@ -49,6 +50,8 @@ Set the configuration parameter ``web_widget_image_webcam.flash_fallback_mode`` 
 Its done! Now this module also work with websites without SSL / HTTPS.
 
 Usage
+-----
+
 -----
 
 -----
@@ -97,7 +100,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Add new options for many2one field
+==================================
 
 This modules modifies "many2one" and "many2manytags" form widgets so as to add some new display
 control options.
@@ -42,6 +43,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -183,7 +186,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 
