@@ -48,15 +48,10 @@ parameter with name `web_tree_many2one_clickable.default` setting it to `false`.
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
 =====
 

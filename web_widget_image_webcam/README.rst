@@ -52,15 +52,10 @@ Its done! Now this module also work with websites without SSL / HTTPS.
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
 =====
 
