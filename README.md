@@ -8,9 +8,61 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
-================================================================================================
-================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 Web addons for Odoo
 ===================
@@ -47,7 +99,7 @@ addon | version | OCA version | summary
 [web_menu_collapsible](web_menu_collapsible/) | 9.0.1.0.0 | :repeat: | Foldable second level Odoo menu
 [web_notify](web_notify/) | 9.0.1.0.0 | :repeat: | Send notification messages to user
 [web_readonly_bypass](web_readonly_bypass/) | 9.0.1.0.1 | :repeat: | Allow to save onchange modifications to readonly fields
-[web_responsive](web_responsive/) | 9.0.2.0.0 | :repeat: | It provides a mobile compliant interface for Odoo Community web
+[web_responsive](web_responsive/) | 9.0.2.0.0 | 9.0.3.0.0 | It provides a mobile compliant interface for Odoo Community web
 [web_searchbar_full_width](web_searchbar_full_width/) | 9.0.1.0.0 | :repeat: | Show search bar in full screen width
 [web_send_message_popup](web_send_message_popup/) | 9.0.1.0.0 | :repeat: | Web Send Message as Popup
 [web_sheet_full_width](web_sheet_full_width/) | 9.0.1.0.0 | :repeat: | Use the whole available screen width when displaying sheets
@@ -78,7 +130,7 @@ addon | version | OCA version | summary
 [web_confirm_window_close](web_confirm_window_close/) | 7.0.1 (unported) | :repeat: | Check for unsaved data when closing browser window
 [web_context_in_colors](web_context_in_colors/) | 8.0.1.1.0 (unported) | :repeat: | Use the context in a tree view's colors and fonts attribute
 [web_dashboard_open_action](web_dashboard_open_action/) | 8.0.1.0.0 (unported) | :repeat: | Adds a button to open a dashboard in full mode
-[web_dashboard_tile](web_dashboard_tile/) | 8.0.1.0.0 (unported) | :repeat: | Add Tiles to Dashboard
+[web_dashboard_tile](web_dashboard_tile/) | 8.0.1.0.0 (unported) | 9.0.1.1.0 | Add Tiles to Dashboard
 [web_dom_model_classes](web_dom_model_classes/) | 8.0.1.0.0 (unported) | :repeat: | Allows small UI changes with simple CSS
 [web_graph_improved](web_graph_improved/) | 8.0.0.1.0 (unported) | :repeat: | Improves graph views.
 [web_group_expand](web_group_expand/) | 8.0.1.0.0 (unported) | :repeat: | Group Expand Buttons
